@@ -16,4 +16,6 @@ NASA allows developers to access NASA data, including imagery, eminently through
 3. Descriotion
 4. Date
 5. Copyright
- 
+
+### Add to Favourites
+Here we have 'Add to favourites' section, which on click stores all the informations of a particular image in localstorage. We can view or remove them by clicking on 'favourites' button in  navigation bar. 
