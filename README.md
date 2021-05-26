@@ -9,4 +9,11 @@ NASA allows developers to access NASA data, including imagery, eminently through
        const count = 10; 
        const apiKey = 'DEMO_KEY'; 
        const apiUrl = `https://api.nasa.gov/planetary/apod?api_key=${apiKey}&count=${count}`; 
+       
+### What it will return
+1. Image
+2. Title of the image
+3. Descriotion
+4. Date
+5. Copyright
  
